@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zachery-Vig
-- 👀 I’m interested in everything to do with coding and computers
-- 🌱 I’m currently learning C++ and C
-- 💞️ I’m looking to collaborate on: nothing at the moment
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate on: nothing
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him 
 
